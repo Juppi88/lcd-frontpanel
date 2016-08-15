@@ -3,3 +3,9 @@
 *.a
 *.elf
 *.hex
+*/Debug/
+*/Release/
+*/.vs/
+*.db
+*.filters
+*.lck
