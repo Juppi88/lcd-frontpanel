@@ -1,6 +1,6 @@
 [submodule "firmware/avr-lcd1602"]
 	path = firmware/avr-lcd1602
-	url = ssh://git@project-apollo.co.uk:32713/avr/avr-lcd1602.git
+	url = https://github.com/Juppi88/avr-lcd1602.git
 [submodule "firmware/avr-serial"]
 	path = firmware/avr-serial
-	url = ssh://git@project-apollo.co.uk:32713/avr/avr-serial.git
+	url = https://github.com/Juppi88/avr-serial.git
